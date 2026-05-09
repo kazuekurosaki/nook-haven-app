@@ -1,0 +1,21 @@
+{
+  "name": "Novel Nook Haven",
+  "short_name": "NookHaven",
+  "description": "Baca Light Novel & Web Novel Terjemahan Indonesia",
+  "start_url": "https://novelnookhaven.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#16151d",
+  "theme_color": "#8b4513",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/USERNAME-GITHUB/nook-app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/USERNAME-GITHUB/nook-app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
