@@ -1,3 +1,4 @@
+const CACHE_NAME = 'nook-haven-v1';
 self.addEventListener('install', (event) => {
   self.skipWaiting();
 });
