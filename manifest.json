@@ -24,13 +24,13 @@
     {
       "name": "Latest Updates",
       "short_name": "Latest",
-      "url": "https://novel-nook-haven.blogspot.com/search/label/Series?max-results=20",
+      "url": "https://novelnookhaven.blogspot.com/search/label/Series?max-results=20",
       "icons": [{ "src": "https://cdn.jsdelivr.net/gh/kazuekurosaki/nook-haven-app@main/src/icon/LatestUpdate.png", "sizes": "192x192" }]
     },
     {
       "name": "My Bookmarks",
       "short_name": "Bookmarks",
-      "url": "https://novel-nook-haven.blogspot.com/p/bookmark.html",
+      "url": "https://novelnookhaven.blogspot.com/p/bookmark.html",
       "icons": [{ "src": "https://cdn.jsdelivr.net/gh/kazuekurosaki/nook-haven-app@main/src/icon/MyBooknarks.png", "sizes": "192x192" }]
     }
   ],
